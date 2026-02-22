@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# FiveM cache
+cache/
+server-data/
+
+# Build artifacts
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# Test coverage
+coverage/
